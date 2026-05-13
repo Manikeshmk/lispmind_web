@@ -3,10 +3,11 @@ node_modules/
 package-lock.json
 yarn.lock
 
-# Build outputs
-public/js/
+# Build outputs (but NOT the docs folder itself)
+/js/
 dist/
 .shadow-cljs/
+public/
 
 # IDE
 .vscode/
