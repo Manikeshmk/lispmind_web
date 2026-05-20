@@ -1,6 +1,6 @@
-![Repo visits](https://hits.sh/github.com/Manikeshmk/lispmind-web.svg?label=repo%20visits)
-![GitHub stars](https://img.shields.io/github/stars/Manikeshmk/lispmind-web?style=logo&logo=github&label=⭐%20Stars) 
-![GitHub forks](https://img.shields.io/github/forks/Manikeshmk/lispmind-web?style=social)
+![Repo visits](https://hits.sh/github.com/Manikeshmk/lispmind_web.svg?label=repo%20visits)
+![GitHub stars](https://img.shields.io/github/stars/Manikeshmk/lispmind_web?style=logo&logo=github&label=⭐%20Stars) 
+![GitHub forks](https://img.shields.io/github/forks/Manikeshmk/lispmind_web?style=social)
 # 🧠 LispMind Web
 
 AI Chatbot in your browser. Built with **ClojureScript (Lisp)**.
@@ -39,7 +39,7 @@ what is lisp             → Lisp explanation
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/Manikeshmk/lispmind-web.git
+git clone https://github.com/Manikeshmk/lispmind_web.git
 # Install
 npm install
 
